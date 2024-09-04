@@ -1,9 +1,11 @@
 #include <iostream>
 #include "Deck.h"
 #include <fstream>
+#include <cstring>
 
 #include "Poker.h"
 #include "Game.h"
+#include <filesystem>
 
 
 enum ErrorCodes {

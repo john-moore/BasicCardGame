@@ -1,8 +1,5 @@
-//
-// Created by John Moore on 8/27/24.
-//
-
 #include "Poker.h"
+#include <climits>
 
 namespace Poker {
 
